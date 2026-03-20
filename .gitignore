@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Build output
+dist/
+
+# Test output
+*.tar.gz
+test-unpack-tmp.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
